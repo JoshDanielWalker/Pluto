@@ -1,2 +1,2 @@
 # Pluto
-# Footer - Page
+# Footer - Component
