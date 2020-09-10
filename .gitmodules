@@ -1,0 +1,4 @@
+[submodule "Pluto-Core"]
+	path = Pluto-Core
+	url = git@github.com:JoshDanielWalker/Pluto-Core.git
+	branch = master
